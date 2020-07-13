@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobList>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <DistributionTypeIdentifier>WebApplication</DistributionTypeIdentifier>
+      <BuildId>C:\Users\software marketing\Desktop\Hero Web Module - Updated\Builds\WebApp_Web Server</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <DistributionTypeIdentifier>WebApplication</DistributionTypeIdentifier>
+      <BuildId>C:\Users\software marketing\Desktop\Hero Web Module - Updated\Builds\WebApp_Web Server</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Failed</State>
+    <LastTotalTime>00:00:00</LastTotalTime>
+    <HasChild>False</HasChild>
+    <QualifiedName>:Web\ Server:Interactive:WebApp\.gcomp</QualifiedName>
+  </Job>
+</JobList>

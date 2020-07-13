@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="6EEEA7B7D33340BE7C4C1ED6891C70F3" Timestamp="1D4A2EA621D0DD7" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="5.3.3.49750" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="5.2.0.0" Version="5.2.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="5.3.3.49750" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="5.2.0.49153" Version="5.2.0.49153" />
+		<ApplicationVersionInfo Build="5.3.3.49750" Name="LabVIEW NXG" Version="2.1.0" />
+	</SourceModelFeatureSet>
+	<DistributionDefinition BusId="0" Company="NI" ContentType="Binary" DisplayName="Demo" DistributionOutputType="NiPackage" Homepage="Demo" MaintainerEmail="Demo" MaintainerName="Demo" ModelId="0" OutputDirectory="&quot;C:\\Users\\ritaprather\\Desktop\\How to Web Module 2019\\How To Web Module - Part 4 Solution&quot;" Product="SLC Demo" TargetedProduct="LabVIEW" VendorId="0" Version="1.0.0.4" xmlns="http://www.ni.com/GComponent.xsd">
+		<DistributionBuildTarget Id="2" Target=":Web\ Server" />
+		<DistributionMemberDependencySource Id="3" MemberContentType="Application" Target=":Web\ Server:Interactive:Temperature\ Monitor\ WebApp\.gcomp" />
+	</DistributionDefinition>
+</SourceFile>

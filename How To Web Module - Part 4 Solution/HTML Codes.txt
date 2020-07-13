@@ -1,0 +1,23 @@
+Quick Google Maps iframe
+-----
+
+<div>
+  <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3083.9251931399904!2d-74.4527296846353!3d39.380569979499064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0efaacf825f6f%3A0x6d8892ab37e17426!2s1801+Absecon+Blvd%2C+Atlantic+City%2C+NJ+08401!5e0!3m2!1sen!2sus!4v1502732532752 "width="300" height="250" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+</div>
+
+-----
+CSS background color
+-----
+
+        <style>
+            body {
+                background-color: Cyan;
+            }
+        </style>
+
+-----
+CSS Style Sheet
+-----
+
+<link href="Custom.css" type="text/css" rel="stylesheet">
+

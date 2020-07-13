@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobList>
+  <Job OutputType="Distribution:NiPackagePartial">
+    <CurrentBuildId>
+      <DistributionTypeIdentifier>Distribution:NiPackagePartial</DistributionTypeIdentifier>
+      <BuildId>C:\Users\ritaprather\Desktop\How to Web Module 2019\How To Web Module - Part 4 Solution</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <DistributionTypeIdentifier>Distribution:NiPackagePartial</DistributionTypeIdentifier>
+      <BuildId>C:\Users\ritaprather\Desktop\How to Web Module 2019\How To Web Module - Part 4 Solution</BuildId>
+    </RootBuildId>
+    <OutputPath>ni-slcdemo-labview-temperaturemonitorwebapp-bin-1_1.0.0.3_windows_x64.nipkg</OutputPath>
+    <BuildName>Temperature Monitor WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:19</LastTotalTime>
+    <HasChild>True</HasChild>
+    <QualifiedName>:NullTarget:Temperature\ Monitor\ WebApp\.lvdist</QualifiedName>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <DistributionTypeIdentifier>WebApplication</DistributionTypeIdentifier>
+      <BuildId>C:\Users\ritaprather\Desktop\How to Web Module 2019\How To Web Module - Part 4 Solution\Builds\Temperature Monitor WebApp_Web Server</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <DistributionTypeIdentifier>Distribution:NiPackagePartial</DistributionTypeIdentifier>
+      <BuildId>C:\Users\ritaprather\Desktop\How to Web Module 2019\How To Web Module - Part 4 Solution</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\Temperature Monitor WebApp_Web Server</OutputPath>
+    <BuildName>Temperature Monitor WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:12</LastTotalTime>
+    <HasChild>False</HasChild>
+    <QualifiedName>:Web\ Server:Interactive:Temperature\ Monitor\ WebApp\.gcomp</QualifiedName>
+  </Job>
+</JobList>
